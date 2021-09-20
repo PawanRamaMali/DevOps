@@ -68,14 +68,30 @@ A CI/CD pipeline is a series of steps that must be performed in order to deliver
 
 ### Continuous Delivery 
 
-Continuous Delivery is a software development practice where software can be released to production at any time. 
+![image](https://user-images.githubusercontent.com/11299574/133975012-bc5d3d6e-ca49-4c01-88a8-2cdab6a85700.png)
 
 Continuous delivery is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time and, when releasing the software, without doing so manually. It aims at building, testing, and releasing software with greater speed and frequency.
 
 ![image](https://user-images.githubusercontent.com/11299574/133974835-0334a5d1-9e48-4bcf-8405-548fd41e6cc5.png)
 
 
+### Continuous Integration and Continuous Delivery 
+
+![image](https://user-images.githubusercontent.com/11299574/133974987-0495920c-be3b-46ae-9b17-17e1ff87acff.png)
+
+![image](https://user-images.githubusercontent.com/11299574/133975058-6457711d-7fd4-4436-bb27-8f93612ff0ed.png)
 
 
+### Continuous Delivery and Continuous Deployment
 
+
+Continuous Delivery is a software development practice where software can be released to production at any time. 
+
+Continuous Deployment is a software development practice where software is automatically released to production continously.
+
+> Only enterprises whose IT department has reached a very high maturity level, will go with Continuous Deployment, because of the risks involved. 
+
+### Continuous Deployment - Phased Rollout 
+
+![image](https://user-images.githubusercontent.com/11299574/133975499-444570f4-ebf2-41de-86f6-e2f57306775b.png)
 
