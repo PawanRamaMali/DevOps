@@ -22,6 +22,9 @@ In other words it involves the continuous integration of code changes made by de
 
 The simplest example of continuous integration is something you might not have even thought of being significant: committing all your application code in a single repository!
 
+![image](https://user-images.githubusercontent.com/11299574/133951714-a6077496-b4b7-4f8f-bec2-a54e67ce0fb2.png)
+
+
 ### Types of tests
 
 In writing tests that will be part of the integration process, here are the some that can be implemented in the process:
