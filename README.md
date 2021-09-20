@@ -1,6 +1,8 @@
 # DevOps
 
-### Existing Code Integration Pain Points
+Term is coined by combining the terms "DEVelopment" and "OPerationS"
+
+### Existing Code Implementation Pain Points
 
 * Software engineers spend a lot of time trying to bring their codebase up to date with the changes that have occurred in the production branch while they were working.
 * In doing that, they have to fix a series of merge conflicts.
@@ -94,4 +96,18 @@ Continuous Deployment is a software development practice where software is autom
 ### Continuous Deployment - Phased Rollout 
 
 ![image](https://user-images.githubusercontent.com/11299574/133975499-444570f4-ebf2-41de-86f6-e2f57306775b.png)
+
+
+### DevOps
+
+DevOps does NOT mean a combination of development and Operarations skillset.
+
+It is a new culture, and a new way of thinking, simply hiring people with dual skill sets will not help achieve it.
+
+Automation tools simply enable you to adopt this new way.
+
+
+![image](https://user-images.githubusercontent.com/11299574/133976252-80fda947-01d3-4172-9ead-c38ed8279f7a.png)
+
+
 
