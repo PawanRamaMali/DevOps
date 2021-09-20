@@ -54,6 +54,27 @@ A CI/CD pipeline is a series of steps that must be performed in order to deliver
 
 ![image](https://user-images.githubusercontent.com/11299574/133952180-789ddfad-3ac2-4f34-8d11-52a2d3d044d8.png)
 
+### Old School Operations 
+
+![image](https://user-images.githubusercontent.com/11299574/133971248-c2aa28b6-0540-4b84-9c2e-3ea7b2384cb4.png)
+
+![image](https://user-images.githubusercontent.com/11299574/133971369-0ac2654b-90ef-471c-94ef-8a90d90c1e47.png)
+
+![image](https://user-images.githubusercontent.com/11299574/133971399-246a3e03-0d44-4bcc-be97-ea7e2740d2a1.png)
+
+#### Pain points 
+
+![image](https://user-images.githubusercontent.com/11299574/133971714-e2ea4629-1e35-44fb-830d-927e5a3f9a3e.png)
+
+### Continuous Delivery 
+
+Continuous Delivery is a software development practice where software can be released to production at any time. 
+
+Continuous delivery is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time and, when releasing the software, without doing so manually. It aims at building, testing, and releasing software with greater speed and frequency.
+
+![image](https://user-images.githubusercontent.com/11299574/133974835-0334a5d1-9e48-4bcf-8405-548fd41e6cc5.png)
+
+
 
 
 
