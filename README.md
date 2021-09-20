@@ -11,6 +11,8 @@
 * Long feedback cycle for functional defects
 * Long iterations
 
+![image](https://user-images.githubusercontent.com/11299574/133951714-a6077496-b4b7-4f8f-bec2-a54e67ce0fb2.png)
+
 
 ### Continuous integration (CI) 
 
@@ -22,8 +24,8 @@ In other words it involves the continuous integration of code changes made by de
 
 The simplest example of continuous integration is something you might not have even thought of being significant: committing all your application code in a single repository!
 
-![image](https://user-images.githubusercontent.com/11299574/133951714-a6077496-b4b7-4f8f-bec2-a54e67ce0fb2.png)
 
+![image](https://user-images.githubusercontent.com/11299574/133951924-72f407b3-e704-41d3-a05d-44e32127b8d4.png)
 
 ### Types of tests
 
@@ -43,4 +45,16 @@ Without going into depth, here are tools that you can start making use of in you
 * Travis CI – known in the open-source world and promises to you have your code tested seamlessly in minutes.
 * Circle CI – provides you with power, flexibility, and control to automate your pipeline from control to deployment.
 * Jenkins – provides hundreds of plugins to support building, deploying, and automating any project.
+
+### Pipeline
+
+A CI/CD pipeline is a series of steps that must be performed in order to deliver a new version of software. Continuous integration/continuous delivery (CI/CD) pipelines are a practice focused on improving software delivery using either a DevOps or site reliability engineering (SRE) approach.
+
+![image](https://user-images.githubusercontent.com/11299574/133952137-9801d937-f83a-4b7c-9b3c-120e2891edd9.png)
+
+![image](https://user-images.githubusercontent.com/11299574/133952180-789ddfad-3ac2-4f34-8d11-52a2d3d044d8.png)
+
+
+
+
 
